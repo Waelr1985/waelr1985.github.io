@@ -1,0 +1,16 @@
+title: "Wael Rahhal"
+email: waelr1985@gmail.com
+description: >-
+  Data Scientist, AI Consultant, and Researcher | MSc AI | Ph.D. Business Management
+baseurl: "" 
+url: "https://waelr1985.github.io"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+markdown: kramdown
+highlighter: rouge
