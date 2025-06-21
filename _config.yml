@@ -1,17 +1,26 @@
 title: "Wael Rahhal"
 email: waelr1985@gmail.com
-description: >-
-  Data Scientist, AI Consultant, and Researcher | MSc AI | Ph.D. Business Management
-baseurl: "" 
+description: "AI Consultant • Data Scientist • Ph.D. Business Management"
+baseurl: ""
 url: "https://waelr1985.github.io"
 
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-remote-theme
 
-markdown: kramdown
-highlighter: rouge
+author:
+  name   : "Wael Rahhal"
+  avatar : "/assets/img/profile.jpg"
+  bio    : "MSc Data Science • Ph.D. Business • AI/ML Consultant"
+  location: "Istanbul, Turkey | Dubai, UAE"
+
+header:
+  image: "/assets/img/banner.jpg"
+  caption: "AI + Data Science = Smart Decisions"
+
+navigation:
+  enabled: true
