@@ -4,3 +4,6 @@
   url: "/about"
 - title: "Projects"
   url: "/projects"
+
+navigation:
+  enabled: true
